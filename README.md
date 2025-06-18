@@ -1,2 +1,2 @@
 # BASIC-PYTHON
-All my basic python projects ate present here. 
+All my basic python projects are present here. 
