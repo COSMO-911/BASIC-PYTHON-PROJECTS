@@ -1,6 +1,5 @@
 #Wordle game
 
-
 import random
 
 #Get a random word from the file
