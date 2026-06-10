@@ -6,5 +6,6 @@ PROJECT LIST -
 2) Simple Calculator 
 3) Wordle game
 4) Slot machine game
+5) Hangman game
 
 
