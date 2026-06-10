@@ -1,5 +1,5 @@
 import random
-
+ 
 
 words =[
     "people", "thing", "woman", "child", "world", 
