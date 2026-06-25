@@ -7,5 +7,5 @@ PROJECT LIST -
 3) Wordle game
 4) Slot machine game
 5) Hangman game
-
+6) credit card validator 
 
